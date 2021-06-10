@@ -1,3 +1,4 @@
 #!/bin/bash
-mvbetty/tmp/holbertontmp
+mv betty /tmp/holberton/
+
 
