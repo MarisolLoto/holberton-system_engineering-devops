@@ -1,2 +1,2 @@
 #!/bin/bash
-export Global_HOLBERTON=Betty
+export HOLBERTON=Betty
