@@ -1,2 +1,2 @@
 #!/bin/bash
-suma=$(($numero1+$numero2))
+suma=$(($TRUEKNOWLEDGE+$128))
